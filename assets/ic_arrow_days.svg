@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    width="24"
+    height="24"
+    viewBox="0 0 24 24">
+  <path
+      d="M11.79,9.52l0,13.78l0.61,0l8.66,-17.35l-9.27,3.57z"
+      fill="#1E608B"/>
+  <path
+      d="M2.53,5.96l8.66,17.34l0.6,0l0,-13.78z"
+      fill="#1E3F6B"/>
+  <path
+      d="M21.63,2.04l-6.65,2.46l-2.76,-2.76l-0.43,0l0,7.78l9.27,-3.57l1.49,-2.99z"
+      fillr="#50C5FF"/>
+  <path
+      d="M11.79,9.52l0,-7.78l-0.42,0l-2.76,2.76l-6.65,-2.46l-0.92,0.92l1.49,3l9.26,3.56z"
+      fill="#4889FF"/>
+</svg>
